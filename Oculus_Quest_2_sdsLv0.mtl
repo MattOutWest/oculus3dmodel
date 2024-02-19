@@ -2,11 +2,11 @@
 
 newmtl Headset
 Ka 1 1 1
-map_Ka Headset_Emissive.png
+map_Ka https://uploads-ssl.webflow.com/65c728f991a763be0b71254d/65d33a279c5c9a8773b6fc95_Headset_Emissive.png
 Kd 1 1 1
 map_Kd Headset_Diffuse.png
 Ks 1 1 1
-map_Ks Headset_Specular.png
+map_Ks https://uploads-ssl.webflow.com/65c728f991a763be0b71254d/65d33a2602eaec8e5f4c6937_Headset_Specular.png
 Ns 0
 map_Ns 
 illum 7
